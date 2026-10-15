@@ -1,16 +1,18 @@
-## Hi there 👋
+## Hi, I'm Eric👋
 
-<!--
-**eQuaEnoo/eQuaEnoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an aspiring data scientist in South Africa, currently completing an
+intensive ML/AI bootcamp with HyperionDev. I'm building projects in
+Python, SQL, and machine learning, and I enjoy turning messy data into
+clear, useful insights.
 
-Here are some ideas to get you started:
+## 🛠️ Tech stack
+**Languages:** Python, SQL
+**Libraries:** pandas, NumPy, scikit-learn, matplotlib, seaborn
+**Tools:** Git, Jupyter, VS Code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Projects
+Portfolio projects are on the way!
+See my full bootcamp portfolio: [HyperionDev portfolio](https://www.hyperiondev.com/portfolio/EQ26040020390/)
+
+## 📫 Connect
+[LinkedIn](https://www.linkedin.com/in/eric-qua-enoo/)
