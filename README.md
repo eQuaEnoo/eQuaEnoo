@@ -1,9 +1,9 @@
 ## Hi, I'm Eric👋
 
 I'm an aspiring data scientist in South Africa, currently completing an
-intensive ML/AI bootcamp with HyperionDev. I'm building projects in
-Python, SQL, and machine learning, and I enjoy turning messy data into
-clear, useful insights.
+intensive ML/AI bootcamp with HyperionDev. I bring business analysis 
+experience to my data work. I'm building projects in Python, SQL, and
+machine learning, and I enjoy turning messy data into clear, useful insights.
 
 ## 🛠️ Tech stack
 - **Languages:** Python, SQL
