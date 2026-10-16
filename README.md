@@ -14,7 +14,7 @@ clear, useful insights.
 
 ## 📂 Projects
 
-- https://github.com/eQuaEnoo/shoe-inventory-cli: A CLI inventory management program
+- [Shoe Inventory CLI](https://github.com/eQuaEnoo/shoe-inventory-cli): menu-driven Python app for managing shoe stock, built with OOP and file persistence
 
 
 
