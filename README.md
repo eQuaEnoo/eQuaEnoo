@@ -13,9 +13,13 @@ clear, useful insights.
 - **Tools:** Git, Jupyter, VS Code
 
 ## 📂 Projects
-- https://github.com/eQuaEnoo/shoe-inventory-cli
 
-See my full bootcamp portfolio: [HyperionDev portfolio](https://www.hyperiondev.com/portfolio/EQ26040020390/)
+- https://github.com/eQuaEnoo/shoe-inventory-cli: A CLI inventory management program
+
+
+
+See my full bootcamp portfolio: 
+[HyperionDev portfolio](https://www.hyperiondev.com/portfolio/EQ26040020390/)
 
 ## 📫 Connect
 [LinkedIn](https://www.linkedin.com/in/eric-qua-enoo/)
