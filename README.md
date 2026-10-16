@@ -23,3 +23,5 @@ See my full bootcamp portfolio:
 
 ## 📫 Connect
 [LinkedIn](https://www.linkedin.com/in/eric-qua-enoo/)
+
+[Gmail](kquaenoo95@gmail.com)
