@@ -6,11 +6,11 @@ Python, SQL, and machine learning, and I enjoy turning messy data into
 clear, useful insights.
 
 ## 🛠️ Tech stack
--**Languages:** Python, SQL
+- **Languages:** Python, SQL
 
--**Libraries:** pandas, NumPy, scikit-learn, matplotlib, seaborn
+- **Libraries:** pandas, NumPy, scikit-learn, matplotlib, seaborn
 
--**Tools:** Git, Jupyter, VS Code
+- **Tools:** Git, Jupyter, VS Code
 
 ## 📂 Projects
 Portfolio projects are on the way!
