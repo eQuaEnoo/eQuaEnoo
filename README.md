@@ -7,7 +7,9 @@ clear, useful insights.
 
 ## 🛠️ Tech stack
 **Languages:** Python, SQL
+
 **Libraries:** pandas, NumPy, scikit-learn, matplotlib, seaborn
+
 **Tools:** Git, Jupyter, VS Code
 
 ## 📂 Projects
