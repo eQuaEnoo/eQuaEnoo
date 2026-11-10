@@ -3,18 +3,13 @@
 I'm a business analyst in South Africa moving into data science. I'm
 finishing an ML/AI bootcamp with HyperionDev, and I build projects that go
 from raw data to a model and a recommendation a business can act on.
-[Add one line on your business analysis background: role, years, industry.]
+
 
 ## Featured project
-**[Olist E-commerce Analysis](https://github.com/eQuaEnoo/olist-ecommerce-analysis)**
-Predicting late deliveries from checkout-time information.
-- Built a logistic regression model using only what is known at checkout
-  (promised delivery window, seller-to-customer distance, states, basket size).
-- Evaluated on a held-out Apr to Aug 2018 period: ROC-AUC 0.70. Flagging the
-  riskiest 10% of orders catches 23% of late orders.
-- Supporting analysis of 96k delivered orders in SQL and Python, with a Power BI
-  dashboard: late deliveries are only 6.8% of orders but about a third of all
-  1 and 2 star reviews.
+**[Olist E-commerce Analysis](https://github.com/eQuaEnoo/olist-ecommerce-analysis)**: predicting late deliveries from checkout-time information.
+- Built a logistic regression model using only what is known at checkout (promised delivery window, seller-to-customer distance, states, basket size), chosen over gradient boosting on time-based validation.
+- Tested on a held-out Apr to Aug 2018 period: ROC-AUC 0.70. Flagging the riskiest 10% of orders catches 23% of late orders, a 2.3x lift over the base rate.
+- Supporting analysis of 96k delivered orders in SQL and Python, with a Power BI dashboard: late deliveries are only 6.8% of orders but about a third of all 1 and 2 star reviews.
 
 ## Tech stack
 - **Languages:** Python, SQL
