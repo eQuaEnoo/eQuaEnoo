@@ -1,23 +1,26 @@
 ## Hi, I'm Eric 👋
 
-I'm a business analyst in South Africa who turns messy data into clear,
-actionable recommendations using SQL, Python and Power BI. I'm finishing a
-data science bootcamp with HyperionDev, adding machine learning to my
-analysis toolkit. [Add one line on your business analysis background:
-role, years, industry.]
-
-## What I work with
-- **Analysis:** SQL (DuckDB, SQLite), Python (pandas, NumPy)
-- **Visualisation:** Power BI, matplotlib, seaborn
-- **Machine learning:** scikit-learn
-- **Tools:** Git, Jupyter, VS Code
+I'm a business analyst in South Africa moving into data science. I'm
+finishing an ML/AI bootcamp with HyperionDev, and I build projects that go
+from raw data to a model and a recommendation a business can act on.
+[Add one line on your business analysis background: role, years, industry.]
 
 ## Featured project
 **[Olist E-commerce Analysis](https://github.com/eQuaEnoo/olist-ecommerce-analysis)**
-I analysed 96k delivered orders in SQL and Python and built a Power BI
-dashboard. Late deliveries are only 6.8% of orders but account for about a
-third of all 1 and 2 star reviews, and 97% of customers buy only once. It
-also includes a model that flags late-delivery risk at checkout.
+Predicting late deliveries from checkout-time information.
+- Built a logistic regression model using only what is known at checkout
+  (promised delivery window, seller-to-customer distance, states, basket size).
+- Evaluated on a held-out Apr to Aug 2018 period: ROC-AUC 0.70. Flagging the
+  riskiest 10% of orders catches 23% of late orders.
+- Supporting analysis of 96k delivered orders in SQL and Python, with a Power BI
+  dashboard: late deliveries are only 6.8% of orders but about a third of all
+  1 and 2 star reviews.
+
+## Tech stack
+- **Languages:** Python, SQL
+- **ML and data:** scikit-learn, pandas, NumPy, DuckDB
+- **Visualisation:** matplotlib, seaborn, Power BI
+- **Tools:** Git, Jupyter, VS Code
 
 ## Other projects
 - [Bookstore Inventory CLI](https://github.com/eQuaEnoo/bookstore-inventory-cli):
