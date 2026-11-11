@@ -1,6 +1,6 @@
 ## Hi, I'm Eric 👋
 
-I'm a business analyst in South Africa moving into data science. I'm
+I'm a business analyst in South Africa building data science skills. I'm
 finishing an ML/AI bootcamp with HyperionDev, and I build projects that go
 from raw data to a model and a recommendation a business can act on.
 
